@@ -1,4 +1,3 @@
-# Test-repository
-This is anew edit from my local computer.
+# My first repo
 
-Second update.
+I have an awesome teacher
